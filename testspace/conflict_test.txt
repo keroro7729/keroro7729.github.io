@@ -1,1 +1,1 @@
-conflict branch 수정내용
+두 수정내용을 잘 반영
